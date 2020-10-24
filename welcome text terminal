@@ -1,0 +1,20 @@
+Para equipo linux:
+
+modificar archivos
+  
+  # nano /etc/issue
+    Ubuntu 18.04.5 LTS \n \l
+  
+  
+    (este es el que print mensaje antes de login)
+    - links para mejorar la edicion de este archivo
+        https://www.ascii-art-generator.org/es.html
+        http://patorjk.com/software/taag/#p=display&f=Nancyj-Underlined&t=Type%20Something%20
+    
+    
+    
+  # nano /etc/motd
+ 
+  
+    (este es el que tras login hace print, es el mensaje de bienvenida)
+    - Puede que no exista, haces un touch o nano y se soluciona.
